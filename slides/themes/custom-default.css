@@ -8,6 +8,11 @@
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
 }
+
+h1 {
+  font-size: 2.9rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .columns3 {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

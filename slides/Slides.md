@@ -1,44 +1,29 @@
 ---
 marp: true
 theme: custom-default
-footer: 'https://example.com'
+footer: 'https://tampagai.com'
+transition: swap
 ---
 
-# My Presentation
-![bg right](https://picsum.photos/800/600)
+# Tampa Bay Generative AI
 
----
-
-<!-- Speaker Notes -->
-## Slide 1
-
-- Item 1
-- Item 2
-- Item 3
-<!-- Can have multiple on a slide -->
+![bg right](./img/tampagai.drawio.svg)
 
 ---
 
-## Slide 2
-<!-- Can also do a multiline
-comment that will show in notes -->
-
-![Image](https://picsum.photos/800/600)
+# LinkedIn
+![bg right](./img/tampagai.drawio.svg)
 
 ---
 
-## Slide 3
+# Slack
+![bg right](./img/tampagai.drawio.svg)
 
-> This is a quote.
 
 ---
 
-## Slide 4
-
-| Column 1 | Column 2 |
-| -------- | -------- |
-| Item 1   | Item 2   |
-| Item 3   | Item 4   |
+# X
+![bg right](./img/tampagai.drawio.svg)
 
 ---
 
